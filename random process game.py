@@ -14,7 +14,6 @@ while flag:
         continue
     else:
         # greet the user and start our guessing game
-        
         print("Hello " + name + ", we are excited to help and assist you in the Pacifique program and we wish you good luck!!")
         break
 
