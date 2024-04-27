@@ -21,7 +21,7 @@ words_list = ['Python', 'HTML', 'CSS', 'Java', 'C++', 'JavaScript', 'SQL', 'Swif
 # choose a random word from the list
 word = random.choice(words_list)
 
-# ask the user to guess a character
+# ask the user to guess a character between the characters provided
 print(name + ", please, take a guess of any character\n")
 
 num_turns = 20
