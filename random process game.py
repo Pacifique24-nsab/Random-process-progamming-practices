@@ -2,7 +2,7 @@ import random
 
 flag = True
 
-# ask the user for their name
+# ask the user for the name
 while flag:
     name = input("What is your name user?\n").strip()
 
