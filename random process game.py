@@ -1,7 +1,8 @@
 # import the random process so that our game will be able to run into a library that enable the program to use random processes
 import random
-# create the condition of 2 possibles actions , whether the first action is true or false to execut the program
 
+
+# create the condition of 2 possibles actions , whether the first action is true or false to execut the program
 flag = True
 
 # ask the user for the name
