@@ -47,6 +47,7 @@ while num_turns > 0:
         # player wins if they guess all the letters in the word
         print("Congratulations, you won!")
         break
+        
     elif num_turns == 0:
         # player loses if they run out of guesses between the possible choices provided
         print("Sorry, you lost!")
