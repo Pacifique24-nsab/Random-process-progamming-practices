@@ -6,7 +6,7 @@ flag = True
 
 # ask the user for the name
 while flag:
-    name = input("What is your name user?\n").strip()
+    name = input("What is your name user?\n").strip() 
 
     # ensure the name entered is valid for the norms indicated
     if not name.isalpha():
