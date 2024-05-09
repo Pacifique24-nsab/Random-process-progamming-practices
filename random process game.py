@@ -42,6 +42,7 @@ while num_turns > 0:
         num_turns -= 1
         print("Wrong guess!")
         print("You have", num_turns, "more guesses left.")
+        
     if set(word).issubset(set(guess)):
         
         # player wins if they guess all the letters in the word
