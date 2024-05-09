@@ -38,7 +38,8 @@ while num_turns > 0:
         continue
     if guess in word:
         print("Good guess!")
-    else:
+    else: 
+        
         num_turns -= 1
         print("Wrong guess!")
         print("You have", num_turns, "more guesses left.")
