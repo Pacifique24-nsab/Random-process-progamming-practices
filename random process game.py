@@ -16,7 +16,6 @@ while flag:
         # greet the user and start our guessing game
         print("Hello " + name + ", we are excited to help and assist you in the Pacifique program and we wish you good luck!!")
         break
-
 # create a list of words that the player will guess in
 words_list = ['Python', 'HTML', 'CSS', 'Java', 'C++', 'JavaScript', 'SQL', 'Swift', 'PHP', 'Perl', 'Sqala', 'Ruby', 'C#', 'TypeScript', 'Kotlin', 'Go', 'Fortran', 'MathLab', 'Scratch', 'Scheme']
 
